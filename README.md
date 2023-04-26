@@ -1,17 +1,15 @@
-# [DOWNLOAD v.2.1 - Pre Release](https://github.com/croccio/Android-Auto-Store/releases/download/2.1/aastore.2.1.apk)
-# [DOWNLOAD v.1.1 - Stable](https://github.com/croccio/Android-Auto-Store/releases/download/1.1/aastore.apk)
+## [DOWNLOAD v.2.1 - Pre Release](https://github.com/croccio/Android-Auto-Store/releases/download/2.1/aastore.2.1.apk)
+## [DOWNLOAD v.1.1 - Stable](https://github.com/croccio/Android-Auto-Store/releases/download/1.1/aastore.apk)
 
 # AAStore
-# Android Auto Store FREE - NO PAYMENT - UNLIMITED DOWNLOAD
-# AAAD free best alternative
+### Android Auto Store FREE - NO PAYMENT - UNLIMITED DOWNLOAD
+### AAAD free best alternative
 
 Android Auto Store the original store for Android Auto and **FREE NO-PAYMENT UNLIMITED-DOWNLOAD**
 All Android Auto Apps Available for you without pain of having to install them from computer.
 
 ### DOWNLOAD LINK: 
 [Click here to download](https://github.com/croccio/Android-Auto-Store/releases/download/1.1/aastore.apk)
-
-[Clicca qui per scaricare](https://github.com/croccio/Android-Auto-Store/releases/download/1.1/aastore.apk)
 
 Android Auto Store is **free app** for Android Phones to downloads **best Android Auto apps** and installs them in the correct way to have them in Android Auto. 
 
@@ -24,7 +22,7 @@ Android Auto Store is completely FREE and offer you unlimited download.
 
 ### Updates
 
-If you want to stay updated with development, you can check out the [Telegram Channel](https://t.me/androidautoapp).
+If you want to stay updated with development, you can check out the [Telegram Channel](https://t.me/Kxofficial).
 
 ### No need for a PC. 
 
@@ -80,4 +78,5 @@ A: No because it is illegal to see sky pirates without a subscription.
 
 # SUPPORT
 
- - [Telegram Channel](t.me/Kxofficial) • [Telegram Group]()
+ - [Telegram Channel](t.me/Kxofficial)
+ - [Telegram Group]()
